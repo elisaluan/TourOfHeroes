@@ -1,0 +1,19 @@
+{
+  "name": "tourofheroes",
+  "version": "1.0.0",
+  "description": "Angular tutorial followthrough",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elisaluan/TourOfHeroes.git"
+  },
+  "author": "elisaluan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elisaluan/TourOfHeroes/issues"
+  },
+  "homepage": "https://github.com/elisaluan/TourOfHeroes#readme"
+}
